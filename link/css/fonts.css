@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Hoves Light';
+  src: url(../fonts/TT-Hoves-Light.woff) format("woff"),
+  url(../fonts/TT\ Hoves-Light.otf)format('otf');
+}
+@font-face {
+  font-family: 'Hoves Regular';
+  src: url(../fonts/TT-Hoves-Regular.woff) format("woff"),
+  url(../fonts/TT\ Hoves-Regular.otf)format('otf');
+  
+  
+}
+@font-face {
+  font-family: 'Hoves Bold';
+  src: url(../fonts/TT-Hoves-Bold.woff) format("woff"),
+  url(../fonts/TT\ Hoves-Bold.otf)format('otf');
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: url(../fonts/SF-Pro-Display-Black.woff) format("woff"),
+  url(../fonts/SF-Pro-Display-Black.otf)format('otf');
+}
+@font-face {
+  font-family: 'Open Sans';
+  src: url(../fonts/OpenSans-Regular.woff) format("woff"),
+  url(../fonts/OpenSans-Regular.otf)format('otf'),
+  url(../fonts/OpenSans-Regular.ttf);
+}
